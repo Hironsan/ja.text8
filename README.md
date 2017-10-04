@@ -54,3 +54,7 @@ Simply run:
 ```commandline
 $ ./setup.sh
 ```
+
+
+# License
+[CC-BY-SA](https://ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
